@@ -45,4 +45,5 @@ linux cli
 
 5-12
 linux fundamentals part1 tryhackme
+linux os installation to lenovo laptop
 
