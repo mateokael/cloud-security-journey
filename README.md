@@ -43,3 +43,6 @@ desktop environment
 linux os strcuture
 linux cli
 
+5-12
+linux fundamentals part1 tryhackme
+
