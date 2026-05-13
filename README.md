@@ -38,6 +38,7 @@ Pre Security in TryHackMe intro
 
 
 5-11
+src: CYBRARY - linux fundamentals for security practioners --
 linux architecture
 desktop environment
 linux os strcuture
@@ -45,9 +46,28 @@ linux cli
 
 5-12
 linux fundamentals part1 tryhackme
+-----
+Introduction to Linux
+Background & History
+Your First Linux Machine
+First Commands (echo, whoami)
+Filesystem Navigation (ls, cd, find)
+Searching & Reading Files (cat, grep)
+------
 linux os installation to lenovo laptop
 
 5-13
 linux fundamentals part 1 tryhack me DONE
+---
+Shell Operators (&, &&, >, >>)
+----
+linux fundamentals part 2 youtube 75% DONE
+----
+SSH (Secure Shell)
+Flags & Switches
+Advanced Filesystem Commands (cp, mv, rm, mkdir)
+File Permissions & Ownership (chmod, chown)
+Switching Users (su)
+---
 
 
