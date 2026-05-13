@@ -47,3 +47,7 @@ linux cli
 linux fundamentals part1 tryhackme
 linux os installation to lenovo laptop
 
+5-13
+linux fundamentals part 1 tryhack me DONE
+
+
