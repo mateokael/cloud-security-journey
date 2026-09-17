@@ -1,4 +1,4 @@
-Bai roms ‘to, bounce na kayo sa room ya, sa susunod na pagkikita na lang ulit. Matsalab G🙌🏻
+
 
 
 # cloud-security-journey
